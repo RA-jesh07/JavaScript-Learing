@@ -1,0 +1,26 @@
+// console.log(2 > 1);
+// console.log(2 >= 1);
+// console.log(2 < 1);
+// console.log(2 == 1);
+// console.log(2 != 1);
+
+
+// console.log("2" > 1);
+// console.log("02" > 1);
+
+// console.log(null > 0); // when comparition operator will be their then null converts into zero
+// console.log(null == 0);// when equalaty operator will be their then it convert into NaN
+// console.log(null >= 0);
+
+console.log(undefined == 0); // of undefined is undefined
+console.log(undefined > 0);
+console.log(undefined < 0);
+console.log(typeof undefined);
+
+
+// === 
+
+console.log("2" === 2);
+
+//as a developer our task is to avoided using different data types while we doing any operation, it because it create more confusion while coding
+//our task is to write clean code
