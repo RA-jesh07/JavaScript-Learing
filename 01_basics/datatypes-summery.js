@@ -34,7 +34,7 @@ let myObj = {
 // myFunction()
 
 function greet(a,b){
-    return a+b   
+    return a+b        
 }
  a=greet(2,3)
  console.log(a);
