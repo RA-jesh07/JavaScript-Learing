@@ -15,7 +15,7 @@ let valueInNumber = Number(score)
 let isLoggedIn = "hitesh"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-//  console.log(booleanIsLoggedIn);
+ console.log(booleanIsLoggedIn);
 
 // 1 => true; 0 => false
 // "" => false
@@ -23,7 +23,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 let someNumber = 33
 
-let stringNumber = String(someNumber)
+// let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
 
@@ -50,6 +50,9 @@ let str3 = str1 + str2
 // console.log(1 + "2");
 // console.log("1" + 2 + 2);
 // console.log(1 + 2 + "2");
+let a="1"+2
+console.log(typeof a);
+
 
 // console.log( (3 + 4) * 5 % 3);
 

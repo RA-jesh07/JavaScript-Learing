@@ -11,7 +11,7 @@ accountCity="puri"
 // console.log(accountEmail);
 // console.log(accountPass);
 // console.log(accountCity);
-console.table([accountId,accountEmail,accountPass,accountCity,accountState])
+// console.table([accountId,accountEmail,accountPass,accountCity,accountState])
 
 // ---------------------------------NOTES----------------------------
 // <- This is called Single line comment
