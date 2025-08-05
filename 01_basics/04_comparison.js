@@ -28,3 +28,12 @@ console.log("2" === 2);
 a="1"
 b=1
 console.log(a==b);
+
+//  let value=6
+// if (typeof value === "undefined") {
+//   console.log("Value is undefined");
+// }
+// else{
+//     console.log("it is undefined");
+// }
+
